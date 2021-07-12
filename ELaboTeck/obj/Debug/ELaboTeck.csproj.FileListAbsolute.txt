@@ -1,0 +1,7 @@
+C:\Users\Filimon\source\repos\ELaboTeck\ELaboTeck\bin\Debug\ELaboTeck.exe.config
+C:\Users\Filimon\source\repos\ELaboTeck\ELaboTeck\bin\Debug\ELaboTeck.exe
+C:\Users\Filimon\source\repos\ELaboTeck\ELaboTeck\bin\Debug\ELaboTeck.pdb
+C:\Users\Filimon\source\repos\ELaboTeck\ELaboTeck\obj\Debug\ELaboTeck.csprojAssemblyReference.cache
+C:\Users\Filimon\source\repos\ELaboTeck\ELaboTeck\obj\Debug\ELaboTeck.csproj.CoreCompileInputs.cache
+C:\Users\Filimon\source\repos\ELaboTeck\ELaboTeck\obj\Debug\ELaboTeck.exe
+C:\Users\Filimon\source\repos\ELaboTeck\ELaboTeck\obj\Debug\ELaboTeck.pdb
